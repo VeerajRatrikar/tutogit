@@ -1,8 +1,0 @@
-#this is an example text file
-#this is an example to create a merge conflict
-one 
-two
-three
-four
-five
-six
